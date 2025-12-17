@@ -3,7 +3,7 @@
 $servername = "sql311.infinityfree.com";
 $username = "if0_40706869";
 $db_password = "54WdqUG3JjLVb";
-$dbname = "if0_40706869_XXX";
+$dbname = "if0_40706869_artisanconnect";
 
 function getDBConnection() {
     global $servername, $username, $db_password, $dbname;
