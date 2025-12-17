@@ -1,1 +1,1 @@
-# ArtisacConnect_FinalProject
+# ArtisanConnect_FinalProject
